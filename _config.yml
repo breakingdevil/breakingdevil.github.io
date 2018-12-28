@@ -1,5 +1,5 @@
 # Site settings
-title: cdevil
+title: cdevil博客
 SEOTitle: cdevil | BY 博客
 header-img: img/post-bg-desk.jpg
 email: hkcoldmoon@gmail.com
@@ -10,7 +10,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/breakingdevil/breakingdevil.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: false                           # whether or not using Sidebar.
+sidebar: True                     # whether or not using Sidebar.
 sidebar-about-description: ""
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
