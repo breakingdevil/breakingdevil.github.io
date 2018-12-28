@@ -1,10 +1,10 @@
 # Site settings
-title: breakingdevil博客
-SEOTitle: breakingdevil | BY 博客
+title: cdevil
+SEOTitle: cdevil | BY 博客
 header-img: img/post-bg-desk.jpg
 email: hkcoldmoon@gmail.com
-description: "一个程序员"
-keyword: ""
+description: "一个会点逆向的程序员"
+keyword: "一个会点逆向的程序员"
 url: "https://breakingdevil.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/breakingdevil/breakingdevil.github.io.git" # you code repository
