@@ -7,7 +7,7 @@ author:     枸杞蒲蒻
 header-img: 
 catalog: true
 tags:
-    - 标签
+    - linux
     
 ---
 
