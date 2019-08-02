@@ -1,8 +1,8 @@
 # Site settings
-title: cdevil博客
-SEOTitle: cdevil | BY 博客
+title: 枸杞蒲蒻blog
+SEOTitle: 枸杞蒲蒻 | BY 博客
 header-img: img/post-bg-desk.jpg
-email: hkcoldmoon@gmail.com
+email: hkcoldmoon@vip.qq.com
 description: "一个会点逆向的程序员"
 keyword: "一个会点逆向的程序员"
 url: "https://breakingdevil.github.io"          # your host, for absolute URL
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "",
-        href: ""
+        title: "iBug",
+        href: "https://ibugone.com/blog/"
     },{
-        title: "",
-        href: ""
+        title: "taoky",
+        href: "taoky.github.io"
     },{
         title: "",
         href: ""
