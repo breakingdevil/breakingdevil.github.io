@@ -2,7 +2,7 @@
 layout:     post
 title:      android debug tricks
 subtitle:   android debug tricks
-date:       2019-8-2
+date:       2019-8-8
 author:     枸杞蒲蒻
 header-img: 
 catalog: true
