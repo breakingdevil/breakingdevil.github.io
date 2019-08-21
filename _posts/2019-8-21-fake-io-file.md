@@ -8,7 +8,7 @@ header-img:
 catalog: true
 tags:
     - pwn
-	- linux
+    - linux
     
 ---
 
@@ -72,8 +72,8 @@ _IO_2_1_stdin_
 * _vtable_offset = 0
 * _fileno >= 3
 * _IO_jump_t 前两个为0x0
-![](https://github.com/breakingdevil/breakingdevil.github.io/raw/master/img/2019-08-21/1.png)
+![](https://github.com/breakingdevil/breakingdevil.github.io/raw/master/img/2019-08-21/1.PNG)
 
 
-![](https://github.com/breakingdevil/breakingdevil.github.io/raw/master/img/2019-08-21/2.png)
+![](https://github.com/breakingdevil/breakingdevil.github.io/raw/master/img/2019-08-21/2.PNG)
 
