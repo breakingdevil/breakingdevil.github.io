@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      ascii shellcode
-subtitle:   ascii shellcode
+title:      ascii-shellcode
+subtitle:   ascii-shellcode
 date:       2019-8-22
 author:     枸杞蒲蒻
 header-img: 
