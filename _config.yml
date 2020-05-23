@@ -105,9 +105,29 @@ friends: [
         title: "taoky",
         href: "taoky.github.io"
     },{
+        title: "Hustcw's Blog",
+        href: "https://blog.wh98.me/"
+    },{
+        title: "V1me's Blog",
+        href: "https://blog.v1me.cn/"
+    }
+    ,{
+        title: "Volltin's Blog",
+        href: "https://blog.volltin.com"
+    }
+    ,{
+        title: "负一的平方根的博客",
+        href: "https://sqrt-1.me/"
+    }
+    ,{
+        title: "Layton",
+        href: "https://blog.ertuil.top/"
+    }
+     ,{
         title: "",
         href: ""
-    },{
+    }
+     ,{
         title: "",
         href: ""
     }
