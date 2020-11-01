@@ -3,7 +3,7 @@ layout:     post
 title:      linux main 函数执行的宏观过程
 subtitle:   linux main process
 date:       2019-8-9
-author:     枸杞蒲蒻
+author:     lycium
 header-img: 
 catalog: true
 tags:

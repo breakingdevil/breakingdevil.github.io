@@ -3,7 +3,7 @@ layout:     post
 title:      chunk-extend-and-overlap
 subtitle:   chunk-extend-and-overlap
 date:       2019-9-2
-author:     枸杞蒲蒻
+author:     lycium
 header-img: 
 catalog: true
 tags:

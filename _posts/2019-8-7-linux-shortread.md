@@ -3,7 +3,7 @@ layout:     post
 title:      linux short read
 subtitle:   short read
 date:       2019-8-7
-author:     枸杞蒲蒻
+author:     lycium
 header-img: 
 catalog: true
 tags:

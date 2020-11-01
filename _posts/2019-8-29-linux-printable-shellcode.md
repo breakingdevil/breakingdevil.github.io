@@ -3,7 +3,7 @@ layout:     post
 title:      linux-amd64-printable-shellcode
 subtitle:   linux-amd64-shellcode
 date:       2019-8-29
-author:     枸杞蒲蒻
+author:     lycium
 header-img: 
 catalog: true
 tags:

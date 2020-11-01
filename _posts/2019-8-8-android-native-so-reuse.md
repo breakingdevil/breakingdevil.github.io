@@ -3,7 +3,7 @@ layout:     post
 title:      android native so reuse
 subtitle:   standard JNI so reuse
 date:       2019-8-8
-author:     枸杞蒲蒻
+author:     lycium
 header-img: 
 catalog: true
 tags:

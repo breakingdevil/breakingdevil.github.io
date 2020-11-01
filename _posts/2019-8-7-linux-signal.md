@@ -3,7 +3,7 @@ layout:     post
 title:      linux signal
 subtitle:   linux signal
 date:       2019-8-2
-author:     枸杞蒲蒻
+author:     lycium
 header-img: 
 catalog: true
 tags:

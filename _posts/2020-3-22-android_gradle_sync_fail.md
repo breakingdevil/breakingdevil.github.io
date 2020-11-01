@@ -3,7 +3,7 @@ layout:     post
 title:      android gradle sync fail
 subtitle:   gradle sync fail
 date:       2020-3-22
-author:     breakingdevil
+author:     lycium
 header-img: 
 catalog: true
 tags:

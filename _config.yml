@@ -1,13 +1,13 @@
 # Site settings
-title: 枸杞蒲蒻blog
-SEOTitle: 枸杞蒲蒻 | BY 博客
+title: lycium blog
+SEOTitle: lycium | BY 博客
 header-img: img/post-bg-desk.jpg
 email: hkcoldmoon@vip.qq.com
 description: "一个会点逆向的程序员"
 keyword: "一个会点逆向的程序员"
-url: "https://breakingdevil.github.io"          # your host, for absolute URL
+url: "https://0xcc.me"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/breakingdevil/breakingdevil.github.io.git" # you code repository
+github_repo: "https://github.com/lyciumlee/lyciumlee.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: True                     # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: true
 # weibo_username:     qiubaiying
 zhihu_username:     
-github_username:    breakingdevil
+github_username:    lyciumlee
 facebook_username:  
 jianshu_username:   
 #twitter_username:   
@@ -64,7 +64,7 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: breakingdevil.github.io    #仓库名称
+  repo: lyciumlee.github.io    #仓库名称
   owner:     #github用户名
   admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩

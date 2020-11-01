@@ -3,7 +3,7 @@ layout:     post
 title:      x86-64-linux-syscall-table
 subtitle:   syscall table
 date:       2019-8-2
-author:     breakingdevil
+author:     lycium
 header-img: 
 catalog: true
 tags:

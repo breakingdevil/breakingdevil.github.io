@@ -3,7 +3,7 @@ layout:     post
 title:      macOS-automaker-初次尝试
 subtitle:   批量ppt转换为pdf
 date:       2019-11-28
-author:     枸杞蒲蒻
+author:     lycium
 header-img: 
 catalog: true
 tags:

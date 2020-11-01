@@ -3,7 +3,7 @@ layout:     post
 title:      heapoverflow-and-off-by-one
 subtitle:   heap attack
 date:       2019-8-30
-author:     枸杞蒲蒻
+author:     lycium
 header-img: 
 catalog: true
 tags:

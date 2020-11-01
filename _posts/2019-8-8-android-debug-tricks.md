@@ -3,7 +3,7 @@ layout:     post
 title:      android debug tricks
 subtitle:   android debug tricks
 date:       2019-8-8
-author:     枸杞蒲蒻
+author:     lycium
 header-img: 
 catalog: true
 tags:
